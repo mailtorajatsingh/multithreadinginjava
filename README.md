@@ -1,2 +1,2 @@
-# skilladvancement
-All the tutorials related to Skill Advancement and Training
+# multi-threading in java
+All the tutorials related to java multi threading
